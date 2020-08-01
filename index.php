@@ -35,11 +35,11 @@
       <!-- Modal body -->
       <div class="modal-body">
        <div class="form-group">
-       	<label>Firstname</label>
+       	<label>First Name</label>
        	<input type="text" name="" id="firstname" class="form-control" placeholder="Firstname">
        </div>
        <div class="form-group">
-       	<label>Lastname</label>
+       	<label>Last Name</label>
        	<input type="text" name="" id="lastname" class="form-control" placeholder="Lastname">
        </div>
        <div class="form-group">
@@ -85,11 +85,11 @@
       <!-- Modal body -->
       <div class="modal-body">
        <div class="form-group">
-       	<label>Firstname</label>
+       	<label>First Name</label>
        	<input type="text" name="" id="update_firstname" class="form-control" placeholder="Firstname">
        </div>
        <div class="form-group">
-       	<label>Lastname</label>
+       	<label>Last Name</label>
        	<input type="text" name="" id="update_lastname" class="form-control" placeholder="Lastname">
        </div>
        <div class="form-group">
@@ -112,9 +112,6 @@
     </div>
   </div>
 </div>
-
-
-
  </div>
 
  <script>
